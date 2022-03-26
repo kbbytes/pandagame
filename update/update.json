@@ -2,7 +2,7 @@
   { "version": "2.5.1"
     , "client": false
     , "server": false
-    , "download": [ "data/social/Discord.png", "data/shop/Instagram.png", "data/shop/Telegram.png"]
+    , "download": [ "data/social/Discord.png", "data/social/Instagram.png", "data/social/Telegram.png"]
   },
   { "version": "2.5.0"
     , "client": true
