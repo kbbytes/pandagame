@@ -1,6 +1,6 @@
 [
   { "version": "2.5.1"
-    , "client": false
+    , "client": true
     , "server": false
     , "download": [ "data/social/Discord.png", "data/social/Instagram.png", "data/social/Telegram.png"]
   },
